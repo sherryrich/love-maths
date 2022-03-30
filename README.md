@@ -4,8 +4,7 @@
 A deployed link to the website can be found [here](https://sherryrich.github.io/love-maths/)
 
 ## Showcase
-![Preview](https://github.com/sherryrich/love-maths/blob/main/docs/love_maths.PNG)
-
+![Preview](https://github.com/sherryrich/love-maths/blob/main/assets/docs/love_maths.PNG)
 
 
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
